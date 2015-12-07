@@ -128,6 +128,6 @@
     <value>Current Version: v0.0.1.0</value>
   </data>
   <data name="connectionInfo" xml:space="preserve">
-    <value>Server=167.114.172.2;userid=admintools;password=90328c61a9aa2291bfe2dc303cc58172efa1f149;port=3306;database=rgds</value>
+    <value></value>
   </data>
 </root>
