@@ -1,0 +1,19 @@
+C:\Users\Shlome\AppData\Local\Temporary Projects\ReaperAdminTools\bin\Debug\ReaperAdminTools.exe.config
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\bin\Debug\ReaperAdminTools.exe.config
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\bin\Debug\ReaperAdminTools.exe
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\bin\Debug\ReaperAdminTools.pdb
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.Properties.Resources.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.csproj.GenerateResource.Cache
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.exe
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.pdb
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.LoginForm.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.Splash.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\NewProgressBar.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.PasswordHasher.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.SuperAdminOptions.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.csprojResolveAssemblyReference.cache
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.CompensationForm.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.Updater.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.CompensationLog.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.Rcon.resources
+E:\UnrealTools\ReaperAdminTools\ReaperAdminTools\obj\Debug\ReaperAdminTools.ServerInformationForm.resources
